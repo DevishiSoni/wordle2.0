@@ -39,8 +39,8 @@ This project was originally developed as part of a university group assignment.
 ### Steps
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/OntarioTech-CS-program/w25-csci2020u-finalproject-w25-team25.git 
-   cd w25-csci2020u-finalproject-w25-team25
+   git clone https://github.com/DevishiSoni/wordle2.0
+   cd wordle2.0-final-project
 2. **Compile and run:**
     ```bash
     javac src/*.java  
