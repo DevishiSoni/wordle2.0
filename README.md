@@ -7,7 +7,7 @@ A Java-based GUI implementation of the classic word-guessing game where players 
 
 
 ## Contributers
-This project was originally developed as part of a university group assignment. You can check out the README file from the original project for a demo video and some screenshots od the program running.
+This project was originally developed as part of a university group assignment. You can check out the README file in the project folder for a demo video and some screenshots of the program running.
 
 **Contributers:**
 - Jolly Soni
